@@ -9,9 +9,6 @@
 
 namespace ProfileSample.DAL
 {
-    using System;
-    using System.Collections.Generic;
-    
     public partial class ImgSource
     {
         public int Id { get; set; }
